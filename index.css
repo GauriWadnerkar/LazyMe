@@ -1,0 +1,103 @@
+ 
+.LazyMe
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+    color: rgb(230, 9, 9);
+    margin-left: 10px;
+     
+}
+.d1
+{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
+    box-shadow: 20px 10px 15px rgb(24, 22, 22);
+}
+.navbar
+{
+    margin-top: 2%;
+    background-color: rgb(230, 9, 9);
+     
+    
+}
+.slider
+{
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    
+}
+.slide
+{
+    height: 600px;
+    width: 700px;
+}
+ #burger
+{   
+    margin-left: 50px;
+    border: 2px;
+    border-style: groove;
+    border-radius: 60%;
+    
+    
+     
+}
+#pizza
+{   
+    
+    border: 2px;
+    border-style:groove;
+    border-radius: 60%;
+}
+#sandwitch
+{   
+   
+    border: 2px;
+    border-style:groove;
+    border-radius: 60%;
+}
+#pasta
+{   
+     
+    border: 2px;
+    border-style: groove;
+    border-radius: 60%;
+}
+#biryani
+{   
+     
+    border: 2px;
+    border-style: groove;
+    border-radius: 60%;
+}
+#Noodles
+{   
+    
+    border: 2px;
+    border-style: groove;
+    border-radius: 60%;
+}
+#Dosa
+{   
+    
+    border: 2px;
+    border-style: groove;
+    border-radius: 60%;
+}
+#vegthali
+{   
+    
+    border: 2px;
+    border-style: groove;
+    border-radius: 60%;
+}
+.buttons
+{
+    padding-top: 10px;
+    border: 0;
+    padding-left: 60px;
+}
+ 
